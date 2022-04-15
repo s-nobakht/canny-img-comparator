@@ -51,3 +51,10 @@ Testing Canny algorithm and its parameters vi GUI:
 Images resulted from working with Canny parameters:
 
 ![Applying Canny edge detector with different parameters](/docs/canny-parameters-results.jpg "Applying Canny edge detector with different parameters")
+
+Comparing two images using Canny edge detector and Hausdorff Distance:
+
+![Comparing two images using Canny edge detector and Hausdorff Distance](/docs/compare-images-ui.png "Comparing two images using Canny edge detector and Hausdorff Distance")
+
+An example of searching an image inside another image (sliding windows showed by red rectangles)
+![An example of searching an image inside another image](/docs/image-search.tif "An example of searching an image inside another image")
