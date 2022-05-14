@@ -1,4 +1,4 @@
-# canny-img-comparator
+# Canny Image Comparator
 Comparing images using edges found by the Canny edge detection algorithm.
 
 # Abstract
